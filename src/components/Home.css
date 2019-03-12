@@ -1,0 +1,22 @@
+
+.Test {
+    margin-bottom: 1rem;
+}
+
+.Test__Input {
+    padding: 4px;
+    background-color: #f2f2f2;
+    font-weight: bold;
+ }
+
+.Test_Output {
+    padding: 4px;
+}
+.Test_Output--expected {
+    background-color: green;
+    color: white;
+}
+.Test_Output--error {
+    background-color: maroon;
+    color: white;
+}
